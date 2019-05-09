@@ -1,0 +1,3 @@
+[submodule "lmnlibrary"]
+	path = lmnlibrary
+	url = git@github.com:liylmn/lmnlibrary.git
